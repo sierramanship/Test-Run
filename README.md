@@ -1,9 +1,9 @@
 # Test-Run
 In class test run of GitHub.
 
-This is a markdown document. As a 'README.md' file. It is the first thing visitors in the repository see.
+This is a markdown document. As a `README.md` file. It is the first thing visitors in the repository see.
 
-You cannot code from here, but you can WRITE code here:
+You cannot code from here, since it is not `R`. But you can WRITE code here:
 
 ```
 library(tidyverse)
